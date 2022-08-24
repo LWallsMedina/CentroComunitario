@@ -1,0 +1,63 @@
+body {
+    background-color: #dddddd;
+    text-align: center;
+    }
+    
+    nav {
+        margin: 1px;
+        font-size: 20px;
+        text-align:center;
+        background-color: white;
+    
+    }
+    
+    nav a {
+        padding: 0 30px 0 30px;
+        color: black;
+        text-decoration: none;
+    }
+    
+    nav a:hover {
+        color: white;
+        font-size: 30px;
+        background-color: rgba(00, 00, 00, 0.70);
+    }
+    
+    nav a:active {
+        color: goldenrod;
+    }
+
+    h1 {
+        text-align: center;
+    }
+    
+    img {
+        border-right: outset 3px black;
+        border-bottom: outset 3px black;
+        border-radius: 25px;
+    }
+    
+    ol li {
+        list-style: none;
+    }
+
+    footer {
+        margin: auto;
+        padding: auto;
+        background-color: #222222;
+        color: white;
+        text-align: center;
+    
+    }
+    
+    footer a{
+        color: white;
+        text-decoration: none;
+    }
+    
+    
+    footer a:hover{
+        color: violet;
+        text-decoration: underline;
+    
+    }
